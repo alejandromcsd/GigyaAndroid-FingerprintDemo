@@ -1,0 +1,4 @@
+#Tue Jul 03 14:51:34 AEST 2018
+base.0=/Users/al/Downloads/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/26
+path.0=classes.dex
+renamed.0=classes.dex
